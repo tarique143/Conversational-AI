@@ -22,7 +22,7 @@ A bilingual AI chatbot built with **Streamlit** and powered by **Gemini API**, c
 
 ## 📸 UI Preview
 
-![UI Preview](image.png) <!-- Add screenshot after UI is done -->
+![UI Preview](image.jpeg) <!-- Add screenshot after UI is done -->
 
 ## 🔧 Installation
 
